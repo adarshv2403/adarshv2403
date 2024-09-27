@@ -1,4 +1,4 @@
-## Hi there 👋<img src="https://github.com/user-attachments/assets/ede9c1b7-c9af-4888-9489-ba3795bcf9b9" width="30px" I am Adarsh Verma! 
+## Hi there 👋<img src="https://github.com/user-attachments/assets/ede9c1b7-c9af-4888-9489-ba3795bcf9b9" width="30px"> I am Adarsh Verma! 
 
 
 
