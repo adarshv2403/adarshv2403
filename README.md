@@ -1,6 +1,8 @@
-## Hi there 👋<img src="C:\Users\DELL\Downloads\Waving Wave GIF - Waving Wave Hand Emoji - Discover & Share GIFs.gif" width="30px">, I am Adarsh Verma! 
+## Hi there 👋<img src="https://github.com/user-attachments/assets/ede9c1b7-c9af-4888-9489-ba3795bcf9b9" width="30px" I am Adarsh Verma! 
 
-<!--
+
+![Waving Wave GIF - Waving Wave Hand Emoji - Discover   Share GIFs](https://github.com/user-attachments/assets/ede9c1b7-c9af-4888-9489-ba3795bcf9b9)
+
 **adarshv2403/adarshv2403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
