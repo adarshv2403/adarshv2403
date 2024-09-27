@@ -1,4 +1,4 @@
-## Hi there 👋<img src=https://images.app.goo.gl/SLz2Q7RXYJqYFsVGA width="30px">, I am Adarsh Verma! 
+## Hi there 👋<img src="C:\Users\DELL\Downloads\Waving Wave GIF - Waving Wave Hand Emoji - Discover & Share GIFs.gif" width="30px">, I am Adarsh Verma! 
 
 <!--
 **adarshv2403/adarshv2403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
